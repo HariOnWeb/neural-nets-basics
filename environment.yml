@@ -1,0 +1,7 @@
+name: proj_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+prefix: /Users/hari/anaconda3/envs/proj_env
